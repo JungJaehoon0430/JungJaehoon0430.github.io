@@ -5,4 +5,7 @@ title: "print 문제 해결
 
 #문제 해결
 
-**Hello world**
+**Hello world**, user_ID=input("이름을 입력하십시오.:")
+organization=input("기관을 입력하십시오.:")
+nation=input("국가를 입력하십시오.:")
+print("http://www.{}.{}.{}".format(user_ID, organization, nation))
