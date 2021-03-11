@@ -9,3 +9,9 @@ title: "print 문제 해결
 organization=input("기관을 입력하십시오.:")
 nation=input("국가를 입력하십시오.:")
 print("http://www.{}.{}.{}".format(user_ID, organization, nation))
+
+a=input("탁도 or 잔류염소:")
+b=input("매우나쁨 or 나쁨 or 보통 or 좋음 or 매우좋음:")
+c=input("측정:")
+d=input("기준:")
+print("{}:{}, 측정:{}, 기준:{}".format(a, b, c, d))
