@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "정재훈"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/정재훈.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "행복한 파이썬 학습자."
   location         : "대한민국. 용인"
   email            : "david040430@naver.com"
